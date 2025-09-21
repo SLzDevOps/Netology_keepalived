@@ -43,10 +43,10 @@ https://github.com/netology-code/sflt-homeworks/blob/main/1.md
 ```
 
 `
-![alt text](htpps://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_53.png).
-![alt text](htpps://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_531.png).
-![alt text](htpps://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_532.png).
-![alt text](htpps://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_533.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_530.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_531.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_532.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_533.png).
 
 
 ---
