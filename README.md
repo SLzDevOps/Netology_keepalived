@@ -1,5 +1,6 @@
 # Домашнее задание к занятию "`Disaster Recovery. FHRP и Keepalived`" - `Фомичев Анатолий`
 
+https://github.com/netology-code/sflt-homeworks/blob/main/1.md
 
 ### Инструкция по выполнению домашнего задания
 
@@ -41,8 +42,12 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+`При необходимости прикрепитe сюда скриншоты`
+`
+![alt text](htpps://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_53.png).
+![alt text](htpps://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_531.png).
+![alt text](htpps://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_532.png).
+![alt text](htpps://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_533.png).
 
 
 ---
@@ -66,9 +71,16 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
-
+`
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
 
 ---
 
