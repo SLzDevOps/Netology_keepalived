@@ -29,7 +29,7 @@ https://github.com/netology-code/sflt-homeworks/blob/main/1.md
 
 
 
-1. `(https://github.com/SLzDevOps/Netology_keepalived/blob/main/hsrp_advanced3.pkt)`
+1. [Файл Cisco packet tracer](https://github.com/SLzDevOps/Netology_keepalived/blob/main/hsrp_advanced3.pkt)
 2. `Заполните здесь этапы выполнения, если требуется ....`
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
