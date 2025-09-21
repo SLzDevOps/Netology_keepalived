@@ -57,8 +57,8 @@ https://github.com/netology-code/sflt-homeworks/blob/main/1.md
 
 `Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
+1. [Файл keepalived.conf](https://github.com/SLzDevOps/Netology_keepalived/blob/main/keepalived.conf)
+2. [Файл скрипта web_server.sh](https://github.com/SLzDevOps/Netology_keepalived/blob/main/web_server.sh)
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
 5. `Заполните здесь этапы выполнения, если требуется ....`
@@ -73,15 +73,18 @@ https://github.com/netology-code/sflt-homeworks/blob/main/1.md
 ```
 
 `
-![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
-![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
-![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
-![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
-![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
-![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
-![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
-![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
-![alt text](https://github.com/SLzDevOps/netology-zabbix-hw8-03/blob/main/screenshot/Screenshot_516.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_534.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_535.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_536.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_537.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_538.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_539.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_540.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_541.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_542.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_543.png).
+![alt text](https://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_544.png).
+
 
 ---
 
