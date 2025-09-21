@@ -42,7 +42,6 @@ https://github.com/netology-code/sflt-homeworks/blob/main/1.md
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты`
 `
 ![alt text](htpps://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_53.png).
 ![alt text](htpps://github.com/SLzDevOps/Netology_keepalived/blob/main/Screenshot_531.png).
